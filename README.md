@@ -1,2 +1,1 @@
 "# kayit-takip" 
-"# kayit-takip" 
